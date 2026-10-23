@@ -1,11 +1,11 @@
-# Yolo — static UI
+# Cashout9 — static UI
 
-A fully self-contained, script-free landing page (branded **YOLO**).
+A fully self-contained, script-free landing page (branded **CASHOUT9**).
 Every resource (images, fonts, CSS, favicon, team logos) is served locally
 from `assets/`.
 
 - **No JavaScript** — nothing can crash on click/tap/scroll.
-- **Every click redirects to https://yolo365s.co/** — nav, cards, buttons,
+- **Every click redirects to https://cashout9.com/en/sport/prematch/upcoming** — nav, cards, buttons,
   icons: all interactive elements funnel to the brand site.
 - **Responsive** — mobile-first app shell (max-width 440px) that centers
   itself on desktop, exactly like the original.
